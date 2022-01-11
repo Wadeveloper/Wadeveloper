@@ -13,6 +13,11 @@
 > - `JAVASCRIPT`
 > - `REACT`
 
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Wadeveloper&hide=html&layout=compact=true&theme=dark)](https://github.com/Wadeveloper/)
+
+
+
 <!---
 Wadeveloper/Wadeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
