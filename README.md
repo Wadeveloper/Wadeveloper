@@ -1,16 +1,17 @@
 # I'm Wandeveloper
 
-- 👋 Hi,
-- 👀 I’m interested in fullstack.
-- 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on some project.
-- 📫  wandersongame2002@gmail.com
+## 👋 Hi, Welcome
+## _here's some info about me:_
+> - 👀 _I’m interested in `fullstack`._
+> - 📕 _I’m currently learning `Node JS`_
+> - 🤝🏼 _I’m looking to collaborate on some project._
+> - 📫  `wandersongame2002@gmail.com`
 
 ### my skills:
-> - HTML
-> - CSS
-> - JAVASCRIPT
-> - REACT
+> - `HTML`
+> - `CSS`
+> - `JAVASCRIPT`
+> - `REACT`
 
 <!---
 Wadeveloper/Wadeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
