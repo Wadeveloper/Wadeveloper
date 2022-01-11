@@ -5,7 +5,7 @@
 > - 👀 _I’m interested in `fullstack`._
 > - 📕 _I’m currently learning `Node JS`_
 > - 🤝🏼 _I’m looking to collaborate on some project._
-> - 📫  `wandersongame2002@gmail.com`
+> - 📫 _contact me: `wandersongame2002@gmail.com`_
 
 ### _my skills are:_
 > - `HTML`
