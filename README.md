@@ -15,7 +15,7 @@
 > - `Python`
 
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Wadeveloper&hide=html&layout=compact=true&theme=dark)](https://github.com/wan-develop/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=wan-develop&hide=html&layout=compact=true&theme=dark)](https://github.com/wan-develop/)
 
 
 
