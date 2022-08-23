@@ -2,7 +2,7 @@
 
 ## 👋 Hi, Welcome!
 ## _here's some info about me:_
-> - 👀 _I’m interested in `fullstack`._
+> - 👀 _I’m interested in `TypeScript`._
 > - 📕 _I’m currently learning `Node JS`_
 > - 🤝🏼 _I’m looking to collaborate on some project._
 > - 📫 _contact me: `wandersongame2002@gmail.com`_
@@ -11,8 +11,9 @@
 > - `HTML`
 > - `CSS`
 > - `JAVASCRIPT`
+> - `TYPESCRIPT`
 > - `REACT`
-> - `Python`
+> - `PYTHON`
 
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=wan-develop&hide=html&layout=compact=true&theme=dark)](https://github.com/wan-develop/)
