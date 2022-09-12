@@ -1,18 +1,18 @@
 # I'm Wanderson
 
-## 👋 Hi, Welcome!
-## _here's some info about me:_
-> - 👀 _I’m interested in `TypeScript`._
-> - 📕 _I’m currently learning `Node JS`_
-> - 🤝🏼 _I’m looking to collaborate on some project._
-> - 📫 _contact me: `wandersongame2002@gmail.com`_
+## 👋 Seja Bem Vindo ao meu Github
+## _Leia mais sobre mim:_
+> - 👀 _Estou enteressado em `TypeScript`._
+> - 📕 _Atualmente Aprendendo `Node JS`_
+> - 🤝🏼 _Procuro novos projetos para colaborar._
+> - 📫 _Meu email de contato: `wandersongame2002@gmail.com`_
 
-### _my skills are:_
+### _Minhas Habilidades:_
 > - `HTML`
 > - `CSS`
 > - `JAVASCRIPT`
 > - `TYPESCRIPT`
-> - `REACT`
+> - `REACT JS`
 > - `PYTHON`
 > - `GIT`
 
