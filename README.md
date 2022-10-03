@@ -4,9 +4,9 @@
 ## 👋 Seja Bem Vindo ao Meu Perfil do Github
 ## _Leia mais sobre mim:_
 > - 👀 _Estou enteressado em `TypeScript`._
-> - 📕 _Atualmente Aprendendo `Node JS`_
+> - 📕 _Atualmente Estudando `ReactJS`_
 > - 🤝🏼 _Procuro novos projetos para colaborar._
-> - 📫 _Meu email de contato: `wandersongame2002@gmail.com`_
+> - 📫 _Meu email de contato: `wandersongame+githubrepo2002@gmail.com`_
 > 
 ### _Minhas Habilidades:_
 > - `HTML`
