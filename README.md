@@ -1,5 +1,5 @@
-# Olá!
-# 
+# Hello!!
+### [Click here to view the English README Version.](EN_README.md)
 ## Sou Wanderson.
 ## 👋 Seja Bem Vindo ao Meu Perfil do Github
 ## _Leia mais sobre mim:_
