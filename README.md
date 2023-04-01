@@ -3,8 +3,8 @@
 ## Sou Wanderson.
 ## 👋 Seja Bem Vindo ao Meu Perfil do Github
 ## _Leia mais sobre mim:_
-> - 👀 _Estou enteressado em `TypeScript`._
-> - 📕 _Atualmente Estudando `ReactJS`_
+> - 👀 _Estou enteressado em `Java`._
+> - 📕 _Atualmente Estudando `Spring + Java`_
 > - 🤝🏼 _Procuro novos projetos para colaborar._
 > - 📫 _Meu email de contato: `wandersongame2002+githubrepo2002@gmail.com`_
 > 
@@ -15,7 +15,9 @@
 > - `TYPESCRIPT`
 > - `REACT JS`
 > - `PYTHON`
+> - `JAVA`
 > - `GIT`
+
 
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=wan-develop&hide=html&layout=compact=true&theme=dark)](https://github.com/wan-develop/)
