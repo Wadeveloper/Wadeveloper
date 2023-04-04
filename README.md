@@ -3,8 +3,8 @@
 ## Sou Wanderson.
 ## 👋 Seja Bem Vindo ao Meu Perfil do Github
 ## _Leia mais sobre mim:_
-> - 👀 _Estou enteressado em `Java`._
-> - 📕 _Atualmente Estudando `Spring + Java`_
+> - 👀 _Estou enteressado em `NodeJs`._
+> - 📕 _Atualmente Estudando `NodeJs`_
 > - 🤝🏼 _Procuro novos projetos para colaborar._
 > - 📫 _Meu email de contato: `wandersongame2002+githubrepo2002@gmail.com`_
 > 
