@@ -15,6 +15,7 @@
 > - `TYPESCRIPT`
 > - `REACT JS`
 > - `PYTHON`
+> - `C++`
 > - `JAVA`
 > - `GIT`
 
